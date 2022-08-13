@@ -3,7 +3,7 @@ Integrate PSiGate Payment gateway with your Magento 2 store and provide your cus
 
 PSiGate Payment Gateway is one of the famous names in Canada’s payment industry with the People Payment Solution being its parent firm. The PSiGate payment gateway allows the online store owners to accept online payment smoothly by providing a hassle-free experience to the customers.
 
-Meetanshi has developed***[Magento 2 PSiGate Payment](https://meetanshi.com/magento-2-psigate-payment.html)*** extension to facilitate the customers to integrate this payment solution with their online store and leverage its benefits. The extension supports accepting online payments from the customers through American Express, Mastercard, and Visa cards.
+Meetanshi has developed ***[Magento 2 PSiGate Payment](https://meetanshi.com/magento-2-psigate-payment.html)*** extension to facilitate the customers to integrate this payment solution with their online store and leverage its benefits. The extension supports accepting online payments from the customers through American Express, Mastercard, and Visa cards.
 
 Offer a smooth, seamless, and hassle-free card payment experience to the customers on your Magento 2 store using this extension and enjoy enhanced customer loyalty. The extension facilitates the store owner to integrate the payment gateway through direct or hosted payment methods.
 
