@@ -36,3 +36,6 @@ Magento 2 PSiGate payment extension is all you need whether you are looking for 
 * Admin can place orders from the back end using the PSiGate payment.
 
 For more information, visit ***[https://meetanshi.com/magento-2-psigate-payment.html](https://meetanshi.com/magento-2-psigate-payment.html)***
+
+Need help with installation and configuration? Refer to the User Guide:
+***[https://meetanshi.com/docs/magento-2/psigate-hosted-payment/](https://meetanshi.com/docs/magento-2/psigate-hosted-payment/)***
